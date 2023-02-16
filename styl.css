@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    font-family: Helvetica;
+}
+header{
+    background-color: darkcyan;
+    font-style: italic;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    height: 150px;
+}
+main{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    height: 350px;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+footer{
+    background-color: cornflowerblue;
+    font-size: 18px;
+    color: white;
+    height: 250px;
+}
